@@ -102,6 +102,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet]
 
 ## Themes
 
+- [Fluent theme (built into WPF, .NET 9+)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/whats-new/net90#fluent-theme) - (FREE, OPEN SOURCE) Windows 11 Fluent styles shipped with WPF itself since .NET 9.
+- [Joufflu](https://github.com/ndegheselle/Joufflu) - (FREE, OPEN SOURCE) Customizable WPF theme built on a coherent set of tokens, with live Light / Dark switching, presets and a live theme editor that generates the resource dictionary.
 - [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) - (FREE, OPEN SOURCE) A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - (FREE, OPEN SOURCE) Material Design UI libraries, styles and additional controls.
 - [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) - (FREE, OPEN SOURCE) Modern styles and controls for your WPF applications.
